@@ -2,7 +2,7 @@ package Ex2;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Subject
 public class WeatherStation {
      private List<WeatherDisplay> displays=new ArrayList<>();
      private float temperature;

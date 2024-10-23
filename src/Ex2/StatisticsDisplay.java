@@ -1,5 +1,5 @@
 package Ex2;
-
+//Concrete Observer
 public class StatisticsDisplay implements WeatherDisplay {
     private float temperatureSum;
     private int numUpdate;

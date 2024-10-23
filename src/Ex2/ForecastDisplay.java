@@ -1,5 +1,5 @@
 package Ex2;
-
+//Concrete Observer
 public class ForecastDisplay implements WeatherDisplay{
     private float lastHumidity;
 

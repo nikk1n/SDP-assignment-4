@@ -1,5 +1,5 @@
 package Ex2;
-
+//Usage
 public class WeatherData {
     public static void main(String[] args) {
         WeatherStation station=new WeatherStation();
